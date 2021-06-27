@@ -5,7 +5,7 @@
 **command**: 
 
 ```bash
-python ./template.py
+python TF_IDF_NB.py
 ```
 
 **Hyperparameter**:
